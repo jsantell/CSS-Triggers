@@ -2,7 +2,7 @@
 
 Ever wondered what work different CSS properties trigger? Wonder no more!
 
-http://triggers.aerotwist.com/
+http://csstriggers.com/
 
 This repo just contains the test files used and the raw data.
 
